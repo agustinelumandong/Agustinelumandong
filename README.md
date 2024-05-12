@@ -8,6 +8,7 @@
 - ⚡ Fun fact: always lazy but love to learn new things about tech.
 
 ## My GitHub Stats
+- Secret
 
 ## Languages and Tools:
 - HTML
