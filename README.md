@@ -14,11 +14,10 @@
 
 ## GitHub Stats
 
-![Agustinelumandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustinelumandong&show_icons=true&theme=dark)
-
+![Agustinelumandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustinelumandong&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustinelumandong&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustinelumandong&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/seanagustine/)
