@@ -10,7 +10,7 @@
 
 ## Recent Projects
 - NewPathSoccer - A website that will help soccer player to enchance skills.
-- Point Of Sale And Inventory Management - A website that will help soccer player to enchance skills.
+- Point Of Sale And Inventory Management - A school project using php and laravel.
 
   <br>
 
