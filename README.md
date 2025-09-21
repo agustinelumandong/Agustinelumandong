@@ -7,8 +7,7 @@
 I'm a dedicated Full-Stack Developer proficient in React, Laravel, and TypeScript. I create end-to-end web solutions, focusing on clean code and modern development practices. My commitment lies in crafting efficient applications that solve real-world problems through innovative development approaches.
 
  <p align="center">
-    <a href="https://www.youtube.com/c/fknight">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    
     <a href="https://github.com/Agustinelumandong?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Agustinelumandong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/Agustinelumandong?tab=repositories&sort=stargazers">
