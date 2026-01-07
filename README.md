@@ -4,20 +4,6 @@
 
 I'm a dedicated Full-Stack Developer proficient in React and TypeScript. I create end-to-end web solutions, focusing on clean code and modern development practices. My commitment lies in crafting efficient applications that solve real-world problems through innovative development approaches.
 
- <p align="center">
-    <a href="https://github.com/Agustinelumandong?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Agustinelumandong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Agustinelumandong?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Agustinelumandong?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-<div align="center">
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Agustinelumandong&label=VISITORS&countColor=%2523263759)
-
-</div>
-
-
 ---
 
 #### Socials
@@ -62,6 +48,19 @@ I'm a dedicated Full-Stack Developer proficient in React and TypeScript. I creat
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
     <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
+
+ <p align="center">
+    <a href="https://github.com/Agustinelumandong?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Agustinelumandong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/Agustinelumandong?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Agustinelumandong?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+<div align="center">
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Agustinelumandong&label=VISITORS&countColor=%2523263759)
+
 </div>
 
 ###
