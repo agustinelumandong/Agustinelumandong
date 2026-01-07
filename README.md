@@ -2,8 +2,7 @@
 
 **`(Developer/Student)`**
 
-#### About Me
-I'm a dedicated Full-Stack Developer proficient in React, Laravel, and TypeScript. I create end-to-end web solutions, focusing on clean code and modern development practices. My commitment lies in crafting efficient applications that solve real-world problems through innovative development approaches.
+I'm a dedicated Full-Stack Developer proficient in React and TypeScript. I create end-to-end web solutions, focusing on clean code and modern development practices. My commitment lies in crafting efficient applications that solve real-world problems through innovative development approaches.
 
  <p align="center">
     <a href="https://github.com/Agustinelumandong?tab=followers">
