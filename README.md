@@ -2,7 +2,6 @@
 
 **`(Developer/Student)`**
 
----
 #### About Me
 I'm a dedicated Full-Stack Developer proficient in React, Laravel, and TypeScript. I create end-to-end web solutions, focusing on clean code and modern development practices. My commitment lies in crafting efficient applications that solve real-world problems through innovative development approaches.
 
@@ -66,30 +65,4 @@ I'm a dedicated Full-Stack Developer proficient in React, Laravel, and TypeScrip
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
 
-
 ###
-
-
-#### Stats
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agustinelumandong&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="220" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agustinelumandong&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="220" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Agustinelumandong&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Agustinelumandong&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
-
-###
-
-<!-- 
-
-<i mg align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-### -->
-
