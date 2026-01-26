@@ -6,7 +6,7 @@ I'm a dedicated Full-Stack Developer proficient in React and TypeScript. I creat
 
 ---
 
-#### Socials
+<!-- #### Socials -->
 
 <!-- <p align="left">
     <a href="https://www.linkedin.com/in/agustinelumandong" target="_blank">
